@@ -3,3 +3,6 @@ A game that I have played before is Elden Ring.  What makes the game enjoyable i
 
 # September 12, 2024
 For You: Maybe have instructions on the white board for more people to see, so people can have a better understanding. For Me: I did not need to go along with the instructions so I did not have any problems.
+
+# September 17, 2024
+This is a free week
