@@ -6,3 +6,6 @@ For You: Maybe have instructions on the white board for more people to see, so p
 
 # September 17, 2024
 This is a free week
+
+# September 27, 2024
+It is important to follow instructions when trying to code because if you do not follow the rules, you could mess up.  By following instructions, you are able to know what to do and not make mistakes.  However, by not following the instructions, you may make a mistake that could ruin your entire code, and you may only realize it once you finish with the code and run it.  Following the instructions as given is like building with legos.  UWhen you follow the instructions, there is no way you mess up, but if you don't follow the instructions, you may mess up.  Overall, it is important to follow the instructions when trying to code in order to not mess up the code.
