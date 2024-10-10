@@ -12,3 +12,6 @@ It is important to follow instructions when trying to code because if you do not
 
 # September 30, 2024
 A daily activity that uses computer science is gaming.  Online games require computer science to run.  This means that coding is an essenstial to electronic games, showing that playing games rely on computer science.  If computer science was gone, there would be less electronic games.
+
+# October 8, 2024
+A job that I would want to have using computer sience is Video Game Developer.  People with the job create games that people would enjoy.  The skills requiured to have the job is to have experience in coding, creating ideas for concepts with game designing, and overall having a great imagination.  Education rarely matters as anyone could start, most preferably would be after highschool.  Experience required should be self explanatory: having the ability to code and create games.  Career development is that people can check your resume of the games that you have made which may or may not have succeeded.   This job aligns with my interests and goals in computer science because by having the ability to code and create games, I can pursue this career to make a solid amount of money and having experience later in life.
