@@ -18,3 +18,7 @@ A job that I would want to have using computer sience is Video Game Developer.  
 
 # October 16, 2024
 Coding can help improve problem solving skills by learning how to think more about a topic to create more well thought ideas.  When coding, you use what you know in order to create something new, entirely made from code.  Understanding code can help in industries unrelated to technology by allowing ideas to fluorish in more off-topic conversations.  Coding enhances creativity by pushing the limits of what can be created by the human mind.  Coding helps with collaboration because in coding, you are using languages that can also be read by other people, allowing for more developed ideas across the coding genre.
+
+# October 21, 2024
+AI can improve efficiency and innovation in industries like healthcare, education, or transportation by making it more easier and more reliable.  By improving healthcare innovation, it can make more precise tasks that normal humans cannot do, like putting a robotic pill into a infected body to kill cancer.  It can be used in education to make learning more simpler and more undestandable with easy to understand summaries of topics that may be hard to understand normally.  AI can also improve transporation for a more faster travel.  Sooner or later, these new innovations will change the world entirely for a much more improved lifestyle.
+
