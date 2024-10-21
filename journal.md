@@ -22,4 +22,4 @@ Coding can help improve problem solving skills by learning how to think more abo
 # October 21, 2024
 AI can improve efficiency and innovation in industries like healthcare, education, or transportation by making it more easier and more reliable.  By improving healthcare innovation, it can make more precise tasks that normal humans cannot do, like putting a robotic pill into a infected body to kill cancer.  It can be used in education to make learning more simpler and more undestandable with easy to understand summaries of topics that may be hard to understand normally.  AI can also improve transporation for a more faster travel.  Sooner or later, these new innovations will change the world entirely for a much more improved lifestyle.
 
-On the other hand, AI can be dangerous as they can be used for harm, they could not be as reliable as we think, and that they can be more sensitive to danger.
+On the other hand, AI can be dangerous as they can be used for harm, they could not be as reliable as we think, and that they can be more sensitive to danger.  
