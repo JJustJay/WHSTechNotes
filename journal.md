@@ -32,4 +32,5 @@ It is important to protect your personal and sensitive information when publishi
 
 # November 12, 2024
 A current event that interests me is school.  I know that if I make it through school with flying colors, I can succeed in life, which makes me so interested in all of the things I do at school.  I use problem solving in almost all of my classes, the technology via chromebook to do work, and analyzing questions to figure out the best answer.  To know that I can possibly get a scholarship, get into a college of my liking, to get a good paying job and to live my life to the fullest, excites me a lot.
+
 The advancements of computer science play a role in my event by pushing the human limits of technology in order to teach us better.  I try my absolute best to use all the tools I am given to try and excel in my classes.  I go through my school life knowing that everything could change for the better.  With this in mind, technologies will help me alot, and I am grateful.
