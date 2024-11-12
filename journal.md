@@ -29,3 +29,6 @@ During election days, there can be many positive and concerns about using techno
 
 # November 4, 2024
 It is important to protect your personal and sensitive information when publishing content online because personal information is very important to you.  If that information was leaked online, people can use it without your consent, which can lead to very bad things.  To ensure the protection of personal information being sent online, people can make sure what they do does not lead to information being leaked, so being smart with what you do can help.  I have not sent anything personal online so I cannot relate, but if I did I would just figure out how to get it removed.  You can balance being open and collaborate with others while protecting your personal information by not talking about it at all.
+
+# November 12, 2024
+An event (that will happen soon) that interests me is the upcoming Mike Tyson vs Jake Paul fight.  It interests me as this is a fight between one of the best boxers back then, who is going to fight some blonde celebrity.  My opinions on the fight is that it seems pretty rigged, since Jake Paul supposedly only fights "middle-aged men" who are already retired and way pest their prime.  If I had a guess on whoever wins, I'd say that Mike Tyson would definitely win, since he has the experience of fighting many people back then.
