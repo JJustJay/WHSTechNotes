@@ -43,3 +43,6 @@ From what I have researched, quantum computing allow people to solve problems fa
 
 # December 9, 2024
 To me, the term "brain rot" is the types of media which you cannot escape, rotting your brain with pointless nonsense.  if anything, the type of media that I have been seeing lately this year has definitely had a negative impact on my mental health as I have been losing motivation on things that I would consider as part of my lifestyle, like small hobbies such as working out and drawing.  The new brain-rot terms connect with technology by the way we speak with other people online.  As hard as it is to get away from brain-rot,  it is possible to get away from this by using phones less frequently and do more cool in life.
+
+# December 16, 2024
+Yes
