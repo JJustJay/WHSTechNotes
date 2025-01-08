@@ -46,3 +46,6 @@ To me, the term "brain rot" is the types of media which you cannot escape, rotti
 
 # December 16, 2024
 Yes
+
+# January 8, 2025
+What I enjoyed about last semester, which also includes joining the class at the beginning of the school year, was the upgraded versions of the computers from the last time I was here during my sophomore year.  With these new and improved computers, we are able to do many more things than just "coding", allowing us to use better applications which we could not have used on the old computers.  In this semester, I plan on finishing up my unity missions in order to pass the unity test and get my certification.
