@@ -49,3 +49,6 @@ Yes
 
 # January 8, 2025
 What I enjoyed about last semester, which also includes joining the class at the beginning of the school year, was the upgraded versions of the computers from the last time I was here during my sophomore year.  With these new and improved computers, we are able to do many more things than just "coding", allowing us to use better applications which we could not have used on the old computers.  In this semester, I plan on finishing up my unity missions in order to pass the unity test and get my certification.
+
+# January 13, 2025
+ With the effect of relying on AI intelligence,  it shifts the tech industry towards using these AI skills over traditional tech roles.  My thoughts on the shift is that theres a good side and bad side about it.  The good thing is that production could increase alongside with efficiency, but the downsides is that there can be errors in the coding, which can result in malfunctioning.  In my opinion, AI tools will limit opportunities for workers.  Since there would be more use of AI in industries, that would lower the amount of jobs for workers.  In a rapidly changing job market like this, I don't really know what I would do since I have not experienced something like this in my life yet.
