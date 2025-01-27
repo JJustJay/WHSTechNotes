@@ -57,3 +57,11 @@ What I enjoyed about last semester, which also includes joining the class at the
 I think the way users would be impacted by technology companies that have been interfered by the government is that users would be given extra defense to what they have online.  This is because the government just wants to make sure that an application created by a different country is safe to use for its country's people, and they wouldn't want their people to use an app that has risks.  In my opinion, tech companies like Tiktok could address security concerns while still being able to operate globally by being more open with what type of security they have.
 
 If I was a developer at Tiktok working on new privacy features, I would implement better security to prove that my appplication cannot be hacked and information wouldn't get stolen that easily.  What I can learn from the Tiktok ban situation and apply to my own game designing projects is that just like the risk of hacking, I would try and prevent the risks of bugs and glitches that may occur in the process of creatimg my project.  This is to ensure that my game can run smoothly for everyone that is playing it.
+
+# January 27, 2025
+| **Name**    | **Car**          | **Mistake**                |
+|-------------|------------------|----------------------------|
+| Jimmy       | Honda Civic      | Drilled hole in gas tank   |
+| Kayla       | GMC Sierra       | Left the oil cap off       |
+| Bart        | Toyota Corolla   | Left stains on carpet      |
+| Harrison    | Subaru Forester  | Fixed the wrong problem    |
