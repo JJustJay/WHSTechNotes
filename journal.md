@@ -69,3 +69,12 @@ If I was a developer at Tiktok working on new privacy features, I would implemen
 # February 3, 2025
 Integrating technology into avation can increase safety by allowing for less collisions and more precise routing when flying.  Less collisions and precise routing can result in less people dying due to aviation problems every year.  One problem that may have happened that resulted in the collision on January 29th could have been from software errors or bugs in the console.  In order to prevent future situations like this, there should be better technology integrated in aviation that can prevent any similar situations like this one.  
 In general, changing the regulations and technology of Air Traffic Control Systems can also help with increasing aviation safety.  During the collision last week, it was shown that both of the paths of the plane and helicoppter had intersected each other.  There should be regulations that should be changed that prevents helicopters from flying near landing areas of airplanes.  There should also be regulations that add limits to where certain aircraft (that are not related to an airport) should not be able to go near any public airports.  There should also be more technology that can show the locations of nearby aircraft, not just only planes. Lastly, I think that there should be private spots for army-related aircraft to do training.  This is how I believe technology should be used in increasing the safety of aviation in our present world.
+
+# February 11, 2025
+| Shape    | Color  | Count |
+|----------|--------|-------|
+| Circle   | Green  | 7     |
+| Square   | Red    | 3     |
+| Hexagon  | Brown  | 6     |
+| Triangle | Purple | 5     |
+| Octagon  | Yellow | 4     |
