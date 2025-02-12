@@ -73,8 +73,8 @@ In general, changing the regulations and technology of Air Traffic Control Syste
 # February 11, 2025
 | Shape    | Color  | Count |
 |----------|--------|-------|
-| **Circle**  | Green  | 5     |
-| **Square**  | Yellow | 7     |
-| **Hexagon** | Red    | 3     |
+| **Circle**  | Green  | 7     |
+| **Square**  | Yellow | 5     |
+| **Hexagon** | Brown    | 6     |
 | **Triangle** | Purple | 4     |
-| **Octagon** | Brown  | 6     |
+| **Octagon** | Red  | 3     |
