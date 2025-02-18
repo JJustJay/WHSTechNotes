@@ -78,3 +78,6 @@ In general, changing the regulations and technology of Air Traffic Control Syste
 | **Hexagon** | Brown    | 6     |
 | **Triangle** | Purple | 4     |
 | **Octagon** | Red  | 3     |
+
+# February 18, 2025
+I learned about synthetic division. It helped me with doing problems that required synthetic division to answer.
