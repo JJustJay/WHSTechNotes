@@ -68,6 +68,7 @@ If I was a developer at Tiktok working on new privacy features, I would implemen
 
 # February 3, 2025
 Integrating technology into avation can increase safety by allowing for less collisions and more precise routing when flying.  Less collisions and precise routing can result in less people dying due to aviation problems every year.  One problem that may have happened that resulted in the collision on January 29th could have been from software errors or bugs in the console.  In order to prevent future situations like this, there should be better technology integrated in aviation that can prevent any similar situations like this one.  
+
 In general, changing the regulations and technology of Air Traffic Control Systems can also help with increasing aviation safety.  During the collision last week, it was shown that both of the paths of the plane and helicoppter had intersected each other.  There should be regulations that should be changed that prevents helicopters from flying near landing areas of airplanes.  There should also be regulations that add limits to where certain aircraft (that are not related to an airport) should not be able to go near any public airports.  There should also be more technology that can show the locations of nearby aircraft, not just only planes. Lastly, I think that there should be private spots for army-related aircraft to do training.  This is how I believe technology should be used in increasing the safety of aviation in our present world.
 
 # February 11, 2025
@@ -81,3 +82,17 @@ In general, changing the regulations and technology of Air Traffic Control Syste
 
 # February 18, 2025
 I learned about synthetic division. It helped me with doing problems that required synthetic division to answer.
+
+# February 24, 2025
+Technology can be used to help educators and service providers stay updated on evolving youth language by seeing the patterns of how youth language is being spread, for instance, slang.  Educators can analyze slamg through technology, seeing how much of an influence this change has on how kids talk.  Using this method, educators could teach kids better ways to communicate with one another, not just in school but also online.  With this in mind, integrating slang translation tools into ou technological society can benefit us by allowing for a more easy way to understand conversations of people in different generations.  Because of the way kids speak nowawdays, it tends to be hard for adults to understand what they are trying to say, showing how integrating slang translation could potentially benefit our society.
+
+In my personal opinion, I believe that schools or youth organizations should definitely teach kids the appropriate slang to improve communication.  When I was a little kid, I didn't learn any slang words until the stat of 5th grade but now kids are learning these types of slang in earlier grades, even in kindergarten!  With this in mind, this would create a confusion between kids and adults becaus as time passes... slang changes... so teaching kids the appropiate use of slang can help their communication skills improve so that they could talk just a little bit better.
+
+# March 3, 2025
+| Name    | Power  | Challenge |
+|----------|--------|-------|
+| Zara | Telekinesis | Secure Building |
+| Aether | Invisibility | Underwater Rescue |
+| Thorne | Mind Control | Retrieve Stolen Goods |
+| Silver | Weather Manipulation | Prevent Assassination |
+| Tangier | Shapeshifter | Extract Prisoner |
