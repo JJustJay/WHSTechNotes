@@ -92,7 +92,7 @@ In my personal opinion, I believe that schools or youth organizations should def
 | Name    | Power  | Challenge |
 |----------|--------|-------|
 | Zara | Telekinesis | Secure Building |
-| Aether | Invisibility | Underwater Rescue |
-| Thorne | Mind Control | Retrieve Stolen Goods |
-| Silver | Weather Manipulation | Prevent Assassination |
+| Aether | Weather Manipulation | Prevent Assassination |
+| Thorne | Invisibility | Underwater Rescue |
+| Silver | Mind Control | Retrieve Stolen Goods |
 | Tangier | Shapeshifter | Extract Prisoner |
