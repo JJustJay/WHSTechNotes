@@ -96,3 +96,6 @@ In my personal opinion, I believe that schools or youth organizations should def
 | Thorne | Invisibility | Underwater Rescue |
 | Silver | Mind Control | Retrieve Stolen Goods |
 | Tangier | Shapeshifter | Extract Prisoner |
+
+# March 17, 2025
+During the spring break, I actually started relearning how to code in python.  I thought about the idea because of how empty and lazy I would be whenvever I have no school.  During these days off, I would do absolutely nothing besides helping my family, playing with my little brothers and being on my phone 24/7.  I thought to myself that I should do better, so I decided to relearn how to code in python so that I can pass time and not be on my phone, actually learn something useful, and hopefully use my newfound knowledge to get a successful life.  This even correlates with what we have been doing in the entirety of computer science.  I used my previous knowledge from the past classes to grow, and hopefully I will succeed.
