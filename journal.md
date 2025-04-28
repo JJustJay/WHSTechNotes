@@ -124,3 +124,10 @@ Dear Mr. Murphy,
 
  This email is dedicated to my appreciation towards you during my time in your English I class.  I am very very proud for having you as my teacher.  This is because of all the fun times I've had in the class with my friend Kelvin.  Not only were the assignments easy to understand, but whenever we required assistance, you always made it simple and easy to understand.  To this day,  I've been missing that class and I feel jealous of the students that are lucky to have you as their English teacher.  If I had a chance to have you as my teacher again, I would undoubtly take that chance.  As I said before, I am very grateful for having you as my English teacher and I hope to see you again every now and then whenever I walk with Kelvin during passing periods or during the morning.
    - Jian Habac
+
+# April 28, 2025
+| Name | Flavor | Occasion | Price |
+|------|-------|--------|--------|
+|Sally|Chocolate|Graduation|$35.00|
+|Michael|Vanilla|Farewewll Party|$37.00|
+|Emma|Carrot|Birthday|$39.00|
