@@ -129,5 +129,5 @@ Dear Mr. Murphy,
 | Name | Flavor | Occasion | Price |
 |------|-------|--------|--------|
 |Sally|Chocolate|Graduation|$35.00|
-|Michael|Vanilla|Farewewll Party|$37.00|
+|Michael|Vanilla|Farewell Party|$37.00|
 |Emma|Carrot|Birthday|$39.00|
