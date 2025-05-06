@@ -131,3 +131,6 @@ Dear Mr. Murphy,
 |Sally|Chocolate|Graduation|$35.00|
 |Michael|Vanilla|Farewell Party|$37.00|
 |Emma|Carrot|Birthday|$39.00|
+
+# May 5, 2025
+In my opinion, I believe the 100 people will win because they have more stamina and can fight longer than the gorilla.  This is because as strong as a gorilla may be, it can get tired sooner or later.  There are 100 people, so if they can tire the gorilla out, they can win.  This is why I believe 100 people can beat a gorilla.
