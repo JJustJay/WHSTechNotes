@@ -134,3 +134,8 @@ Dear Mr. Murphy,
 
 # May 5, 2025
 In my opinion, I believe the 100 people will win because they have more stamina and can fight longer than the gorilla.  This is because as strong as a gorilla may be, it can get tired sooner or later.  There are 100 people, so if they can tire the gorilla out, they can win.  This is why I believe 100 people can beat a gorilla.
+
+# May 12, 2025
+After viewing examples of the new trend where students destroy chromebooks, I can say without a doubt in my mind that the actions that these students are doing are very unethical.  I believe such actions are unethical because it is just wrong.  Destroying school property is something that you shouldn't be doing in general.  It also badly influences the next generation, making them do things that should not be done.  Misuse of technology can also be dangerous if you do not know what you are messing with.
+
+Whenever these students try to mess with chromebooks for social attention, they are not wary of the dangerous side effects when messing with them.  The chromebook could explode in front of them that could potentially lead to serious injuries.  It is important to use technology safely to prevent such events from happening.  Being safe can also teach others to be safe, making more of a positive influence towards society.  Overall, it is unethical for students to be messing with chromebooks because it is dangerous and it is also a bad influence to society.
