@@ -142,3 +142,6 @@ Whenever these students try to mess with chromebooks for social attention, they 
 
 # May 19, 2025
 I am definitely ready for summer.  I feel like after doing all of the hard work that I have been doing throughout this school year, this upcoming summer break is definitely worth the wait.  I can finally rest and not need to think about school for the next two and a half months.
+
+# September 2, 2025
+The new cell phone law has impacted students in many ways.  My thoughts about this phone ban is that it is actually good for students, specifically those who wish to excel in school.  Say there is a student who wishes to do work with other classmates, however they are on their phone.  Such students now must focus on their work and communiucate with their peers instead of playing games.  In the end, this phone ban definitely has mixed feelings towards students, but in my eyes, it is a good way for students like me to do work instead of being distracted.
