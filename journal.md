@@ -145,3 +145,6 @@ I am definitely ready for summer.  I feel like after doing all of the hard work 
 
 # September 2, 2025
 The new cell phone law has impacted students in many ways.  My thoughts about this phone ban is that it is actually good for students, specifically those who wish to excel in school.  Say there is a student who wishes to do work with other classmates, however they are on their phone.  Such students now must focus on their work and communiucate with their peers instead of playing games.  In the end, this phone ban definitely has mixed feelings towards students, but in my eyes, it is a good way for students like me to do work instead of being distracted.
+
+# September 8, 2025
+A career that I am investing myself into for the future is robotic engineering.  This career values computer science as it is the heart of robotics.  One example of this is that coding is used to manuever a robot, since without coding, robots wouldn't really be able to do anything.  In summary, computer science is a crucial factor in robotic engineering.
