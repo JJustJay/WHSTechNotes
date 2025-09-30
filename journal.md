@@ -154,3 +154,6 @@ For the presidential AI challenge, there are many ways that AI can be used to so
 
 # September 22, 2025
 In my opinion, I think working in a virtual store for real money is a bad idea for future jobs.  I believe this is a bad idea because there can be many things that could potentially go wrong in a virtual store.  For instance, there can be hackers that could potentially hack the store and ruin everything.  An example of this is on Roblox, since there are many hackers in the platform that tend to make games miserable for its players.  With this reason, this is why I think working in a virtual store for real money is a bad idea.
+
+# September 30, 2025
+There are many meanings behind the phrase "6, 7".  I believe the meaning depends on the person.  Based on some research that I have done, the origin of the phrase "6, 7" came from a scoreboard and a kid ended up saying the phrase.  Many other people think it as a joke.  I believe the phrase has a deeper meaning.  To me, the phrase is a lifestyle.
