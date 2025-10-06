@@ -157,3 +157,6 @@ In my opinion, I think working in a virtual store for real money is a bad idea f
 
 # September 30, 2025
 There are many meanings behind the phrase "6, 7".  I believe the meaning depends on the person.  Based on some research that I have done, the origin of the phrase "6, 7" came from a scoreboard and a kid ended up saying the phrase.  Many other people think it as a joke.  I believe the phrase has a deeper meaning.  To me, the phrase is a lifestyle.
+
+# October 6, 2025
+If I were in charge of my school, I would treat it's AI policy and technology different than the school that I am currently in.  In this school, we are not allowed to play games at all, and we are not allowed to use our phones because of the ban.  In my school, I would limit AI to some extent, such as adding a rule that blocks any sort of AI tool on the chromebooks.  I would allow my students to use chromebooks for school work, however phones would not be an option.  I will follow the law that states that phones are prohibited during school hours, however I would implement a rule where my students are only allowed their phones during lunch because I believe it is unfair for students to be unable to use their phones during lunch.  This is how I would handle technology and AI policies at my school.
