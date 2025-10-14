@@ -160,3 +160,8 @@ There are many meanings behind the phrase "6, 7".  I believe the meaning depends
 
 # October 6, 2025
 If I were in charge of my school, I would treat it's AI policy and technology different than the school that I am currently in.  In this school, we are not allowed to play games at all, and we are not allowed to use our phones because of the ban.  In my school, I would limit AI to some extent, such as adding a rule that blocks any sort of AI tool on the chromebooks.  I would allow my students to use chromebooks for school work, however phones would not be an option.  I will follow the law that states that phones are prohibited during school hours, however I would implement a rule where my students are only allowed their phones during lunch because I believe it is unfair for students to be unable to use their phones during lunch.  This is how I would handle technology and AI policies at my school.
+
+# October 14, 2024
+For this assignment, I decided to use Canva AI to create a website that makes a logic puzzle in the form of minesweeper.  In total, there are three versions of the site as I had to change some certain aspects in the website because I wanted the site to be clean and more efficient.  In the first version there are three difficulties: easy, medium, and hard.  In the second version, I formatted the difficulties to fit in the screen of the website because the hard difficulty would go out of the boundaries of the website.  The third and final version of my website allows for a clean minesweeper experience, where you can type your name and get on the leaderboard of each difficulty, where the fastest completion is on the top of the leaderboard.
+
+This is the link to the site: https://jiansminesweeper.my.canva.site/minesweeper-logic-puzzle
