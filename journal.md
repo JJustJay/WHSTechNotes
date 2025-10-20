@@ -165,3 +165,10 @@ If I were in charge of my school, I would treat it's AI policy and technology di
 For this assignment, I decided to use Canva AI to create a website that makes a logic puzzle in the form of minesweeper.  In total, there are three versions of the site as I had to change some certain aspects in the website because I wanted the site to be clean and more efficient.  In the first version there are three difficulties: easy, medium, and hard.  In the second version, I formatted the difficulties to fit in the screen of the website because the hard difficulty would go out of the boundaries of the website.  The third and final version of my website allows for a clean minesweeper experience, where you can type your name and get on the leaderboard of each difficulty, where the fastest completion is on the top of the leaderboard.
 
 This is the link to the site: https://jiansminesweeper.my.canva.site/minesweeper-logic-puzzle
+
+# October 20, 2025
+| Name    | Class  | Seat |
+|----------|--------|-------|
+| Franklin  | Second  | 91A |
+| Hardeep  | Third | 61F |
+| Marla | First | 35B |
