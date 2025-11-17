@@ -185,3 +185,6 @@ This journal is excused.
 
 # November 10, 2025
 The skills and habits that I am proud of this year is the constistency and the amount of work I put into things.  From the start of this year up until now, I have been bombarded with so much things . been given assigfnments after assignments, quizzes after quizzes.  Because of this, I have created a habit of doing work consistently, making sure that all my assignments and such are turned in on time.  I've also developed better skills in learning because I can dive deeper into more vast concepts that I could not have done before this year.  To conclude, I am proud of my skills and habits as it made me a better person.  I plan on using these skills for my next year carrer in college.
+
+# November 17, 2025
+Yes, I am looking forward for thanksgiving break.  Supposedly, my cousins will be visiting us this break so I am looking forward for that.  I am also looking forward to eating a lot of food.
