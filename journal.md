@@ -188,3 +188,6 @@ The skills and habits that I am proud of this year is the constistency and the a
 
 # November 17, 2025
 Yes, I am looking forward for thanksgiving break.  Supposedly, my cousins will be visiting us this break so I am looking forward for that.  I am also looking forward to eating a lot of food.
+
+# December 1, 2025
+One job that requires drones is cropdusting using a drone.  In this job, programmers use code to automate the drone to do cropdusting on a field.  According to what I have researched, a drone operator in the cropdusting field gets anywhere between $81,500 to $129,500.  The requirements to become cropdusting certified for drones, you must have Part 107 license, programming and coding skills, and informed about how to use a drone.  I would gladly do this job in the future because since we live in Texas, there are many farms, so I could capitalize in this job.
