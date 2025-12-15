@@ -194,3 +194,6 @@ One job that requires drones is cropdusting using a drone.  In this job, program
 
 # December 8, 2025
 Self-driving cars may fail to recognize/correctly respond to a stopped school bus even with its stop sign because it may not be something that the self-driving car is able to detect.  For example, in a train pass on a road, the train is detected as a bunch of semi-trucks stacked together.  With this example, this means that there are some things that the car has not been programmed to do, resulting in these failures.  If I were a programmer in the Waymo team, I would try to create code that can show these stopped school buses.  I could also try changing the self-driving car's recognition skills so that it can detect any sort of object in its surroundings by using color or some sort of energy waves like radiowaves.
+
+# December 15, 2025
+My plans for winter break is that I will play games and eat.  I will try to spend time with my friends.  Overall I will spend most of my time with my family.
