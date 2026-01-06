@@ -197,3 +197,6 @@ Self-driving cars may fail to recognize/correctly respond to a stopped school bu
 
 # December 15, 2025
 My plans for winter break is that I will play games and eat.  I will try to spend time with my friends.  Overall I will spend most of my time with my family.
+
+# January 6, 2025
+Throughout the winter break, I have used a lot of technology.  I used my phone to play games with my friends.  I used the television to watch shows and movies with my family.  I used a smart washing machine to clean my clothes.  I turned on the cool technological lamp that was in my room so I could see in the night.  In summary, I used a lot of technology.
