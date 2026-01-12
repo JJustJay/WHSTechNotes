@@ -200,3 +200,6 @@ My plans for winter break is that I will play games and eat.  I will try to spen
 
 # January 6, 2025
 Throughout the winter break, I have used a lot of technology.  I used my phone to play games with my friends.  I used the television to watch shows and movies with my family.  I used a smart washing machine to clean my clothes.  I turned on the cool technological lamp that was in my room so I could see in the night.  In summary, I used a lot of technology.
+
+# January 12, 2025
+Online safe havens are areas within the internet that allow for the safety of people, specifcally those who have problems.  In my eyes, these spaces are needed so that all people can be able to do things, whether they have a problem or not.  Developers should have a responsibility to design safety procedures and protect these spaces instead of keeping the users safety up to them because there should be some authority stopping some users from causing problems with another.  If these safe haven protectors do not exist, it would create vulnerability in the haven that could harm users.  With this in mind, developers should become the authority to ensure the safety of its users.
