@@ -198,8 +198,11 @@ Self-driving cars may fail to recognize/correctly respond to a stopped school bu
 # December 15, 2025
 My plans for winter break is that I will play games and eat.  I will try to spend time with my friends.  Overall I will spend most of my time with my family.
 
-# January 6, 2025
+# January 6, 2026
 Throughout the winter break, I have used a lot of technology.  I used my phone to play games with my friends.  I used the television to watch shows and movies with my family.  I used a smart washing machine to clean my clothes.  I turned on the cool technological lamp that was in my room so I could see in the night.  In summary, I used a lot of technology.
 
-# January 12, 2025
+# January 12, 2026
 Online safe havens are areas within the internet that allow for the safety of people, specifcally those who have problems.  In my eyes, these spaces are needed so that all people can be able to do things, whether they have a problem or not.  Developers should have a responsibility to design safety procedures and protect these spaces instead of keeping the users safety up to them because there should be some authority stopping some users from causing problems with another.  If these safe haven protectors do not exist, it would create vulnerability in the haven that could harm users.  With this in mind, developers should become the authority to ensure the safety of its users.
+
+# January 20, 2026
+In this era, there is alot of unjust actions happening around the world.  One way technology can be used to creat safe and just places is by adding a way for robots to control the bad things happening.  My idea is sort of like terminator, where all of these robots control and tame the bad part of society.  I believe this is one of the harsher ways of doing things however I believe that this world must know change.  This is how I would change the world to be more just and safe.
