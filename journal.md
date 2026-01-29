@@ -206,3 +206,6 @@ Online safe havens are areas within the internet that allow for the safety of pe
 
 # January 20, 2026
 In this era, there is alot of unjust actions happening around the world.  One way technology can be used to creat safe and just places is by adding a way for robots to control the bad things happening.  My idea is sort of like terminator, where all of these robots control and tame the bad part of society.  I believe this is one of the harsher ways of doing things however I believe that this world must know change.  This is how I would change the world to be more just and safe.
+
+# January 29, 2026
+Before I answer the questions given, I just want to say that the SAT, which is the test I took, was very rigorous not towards me specifically but more towards my friends.  I got a relatively high SAT score which I am indeed proud of.  For future SAT tests, I may need to indulge in practice tests and self studying lessons because I know for a fact I can do way better.  This is because I had taken the SAT without any test prep at all, and yet I still got a good score.  If I ever plan on retaking the SAT test or even take the ACT test, I will very much study for them.
