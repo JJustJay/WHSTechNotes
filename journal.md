@@ -215,3 +215,6 @@ Personal hygiene and self-care of an individual is important, especially within 
 
 # February 3, 2026
 No, I do not enjoy watching football because I do not really watch football and I am lazy.  No, I did not watch Super Bowl LX.  I have no opinion.
+
+# February 23, 2026
+I believe that the technology that had the biggest impact on the Olympics was AI.  For most of the sporting events, AI was used to make sure that games were played fairly and that nothing bad happened.  For the sports, this technology made fairness much better because humans can work with AI to make games run better.
