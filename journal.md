@@ -218,3 +218,29 @@ No, I do not enjoy watching football because I do not really watch football and 
 
 # February 23, 2026
 I believe that the technology that had the biggest impact on the Olympics was AI.  For most of the sporting events, AI was used to make sure that games were played fairly and that nothing bad happened.  For the sports, this technology made fairness much better because humans can work with AI to make games run better.
+
+# March 2, 2026
+The two jobs I chose are:
+Data or Digital Analyst (H-E-B Digital)
+Cybersecurity Analyst / Cyber Business Analyst (Booz Allen Hamilton)
+
+Information:
+1. Digital Analyst
+Company: H-E-B Digital
+Job Title: Digital Analyst
+Education Required: A bachelor's degree in statistics, mathematics, economics, computer science, or another related field
+Experience Required: 2 to 4 years of experience in data analytics, electronic commerce, or digital product analysis
+Skills / Tools / Languages: Google/Adobe Analytics
+Certifications (if any): Google Analytics Individual Qualification
+What the job does: Taking on this role would require someone to analyze the way customers behave across digital platforms in order to optimize the users experiences and give them online sales that would fit them.
+
+2. Cybersecurity Business Analyst
+Company: Booz Allen Hamilton
+Job Title: Cybersecurity Business Analyst
+Education Required: Bachelor’s degree in Cybersecurity, Information Technology, Business, or another related field.
+Experience Required: 1–3 years of experience with IT business analysis, risk management, or cybersecurity frameworks.
+Skills / Tools / Languages: NIST Cybersecurity Framework (CSF), JIRA/Confluence, Risk Assessment, SDLC knowledge, and technical writing.
+Certifications (if any): CompTIA Security+, Certified Business Analysis Professional (CBAP), or GIAC certifications.
+What the job does: One who taking on this role will find themselves make sure that both the techical security teams and business holders are functioning along federal security standards.
+
+If I had to choose one of the two following jobs, I would choose digital analyst.  This is because I specialize in anything mathematics.  Another thing is that I am currently learning google analytics. If I were to take this job, I feel like I would succeed because I feel like this job would be made for someone like me who has the skills required to do it.  With this in mind, I feel like the job would help me grow as I am one who wishes to fully specialize in cyber defense, so this could potentially help me learn more for my designated field that I am striving for.
