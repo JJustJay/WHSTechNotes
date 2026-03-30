@@ -247,3 +247,6 @@ If I had to choose one of the two following jobs, I would choose digital analyst
 
 # March 23, 2026
 I chose my March Bracket off of what other people said about the teams, so far both of my brackets are horrible.  The first weekend suprised me because Iowa beat Florida and I bet on Florida for the Men's bracket.  Using data can improve predictions by understanding the list of teams playing, and seeing how good they are so that you can choose the right team that will win.  A computer program can dive deep into data better than a human can, resulting in much better predictions.  A data analyst job might work with sports data in order to make good predictions.
+
+# March 30, 2026
+Upsets happen when a lower seeded team wins against a higher seeded team.  In my eyes, the term upset fits this well because people believed that the higher seed would win but they end up losing, making the people upset.  An example of this is when Duke, a high seeded team, lost to Uconn during this year's March Madness.  To correlate with computers, it would be dificult for them to create a perfect bracket because these upsets can occur at any time, making data practically useless.  Because of this, the limits of computer guessing for brackets can be limited because data can not always correlate to the answer.
