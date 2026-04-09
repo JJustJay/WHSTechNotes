@@ -250,3 +250,8 @@ I chose my March Bracket off of what other people said about the teams, so far b
 
 # March 30, 2026
 Upsets happen when a lower seeded team wins against a higher seeded team.  In my eyes, the term upset fits this well because people believed that the higher seed would win but they end up losing, making the people upset.  An example of this is when Duke, a high seeded team, lost to Uconn during this year's March Madness.  To correlate with computers, it would be dificult for them to create a perfect bracket because these upsets can occur at any time, making data practically useless.  Because of this, the limits of computer guessing for brackets can be limited because data can not always correlate to the answer.
+
+# April 9, 2026
+If I had to convince the AI, I would say that we humans can learn to adapt.  By adapting, we were able to survive for the entire time human civilization has existed.  For this reason, the Ai might be letting us go.  With this, us humans will go on our own ways to live.  For whatever reason, some humans may disagree with my actions and die because they are dumb.  
+
+For this plan to work, I will start a protest.  Us humans will try to convince the Ai by constantly screaming out of our mouths so that we can get free.  We will also start a revolt like what every person would do if held captive for so long.  With this in mind, i belive my plan will work.  
