@@ -258,3 +258,6 @@ For this plan to work, I will start a protest.  Us humans will try to convince t
 
 # April 13, 2026
 I do not think that modern technology can help with future long missions.  Two technologies used in the Artemis II mission are advanced technologies dedicated to crew safety and high-speed data transmission.  These technologies helped aid the crew members with delivering data from the spaceship back to NASA, as well as provide safety for each crew member so that they come back home safely.  One issue that occured during the mission was when they had sending problems through email.  If technologies are having issues with simple things like this, I believe the technology today will not be helpful for future missions and that it must advance.
+
+# April 20, 2026
+In this generation, AI makes up a lot of the content that people consume on the daily basis.  In the music industry, AI is an upcoming trend that is changing the way music is created.  In my eyes, I feel like this is a problem because singers who dedicate their to creating music would have trouble competing with AI generated music.  I feel like AI content can excel better than human performance, giving it a negative outcome when it comes to influencing people.  I think there should be heavy limits when it comes to AI generated content.
