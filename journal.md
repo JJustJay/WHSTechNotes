@@ -261,3 +261,6 @@ I do not think that modern technology can help with future long missions.  Two t
 
 # April 20, 2026
 In this generation, AI makes up a lot of the content that people consume on the daily basis.  In the music industry, AI is an upcoming trend that is changing the way music is created.  In my eyes, I feel like this is a problem because singers who dedicate their to creating music would have trouble competing with AI generated music.  I feel like AI content can excel better than human performance, giving it a negative outcome when it comes to influencing people.  I think there should be heavy limits when it comes to AI generated content.
+
+# April 27, 2026
+In this week specifically, there has been many references of AI through out the world.  One thing That I was focused on was cybersecurity tips and tricks.  AI influences this sort of field because technology increased to the point where it affected cybersecurity.  For me to excel in this field, I will need to work with AI to get better.  This is one way AI has influenced the world.
