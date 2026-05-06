@@ -264,3 +264,6 @@ In this generation, AI makes up a lot of the content that people consume on the 
 
 # April 27, 2026
 In this week specifically, there has been many references of AI through out the world.  One thing That I was focused on was cybersecurity tips and tricks.  AI influences this sort of field because technology increased to the point where it affected cybersecurity.  For me to excel in this field, I will need to work with AI to get better.  This is one way AI has influenced the world.
+
+# May 6, 2026
+I believe every action that is done relating to AI is used to train them.  When it comes to asking them questions or doing any sort of online task, AI data centers would use these data as a sort of basis to train their AIs.  Because of this, I believe that I am definitely training AI, especially when it comes to searching up questions online.  AIs can benefit from my actions because they can produce an answer that will benefit another person who has a similar question as me in the future.  This change does not really affect me since AI is already developing itself into daily lives.
