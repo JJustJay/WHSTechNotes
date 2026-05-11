@@ -267,3 +267,6 @@ In this week specifically, there has been many references of AI through out the 
 
 # May 6, 2026
 I believe every action that is done relating to AI is used to train them.  When it comes to asking them questions or doing any sort of online task, AI data centers would use these data as a sort of basis to train their AIs.  Because of this, I believe that I am definitely training AI, especially when it comes to searching up questions online.  AIs can benefit from my actions because they can produce an answer that will benefit another person who has a similar question as me in the future.  This change does not really affect me since AI is already developing itself into daily lives.
+
+# May 11, 2026
+Throughout the year, there has been many things that I have experienced.  School/work habits is definitely something that I have changed.  For this year, I have been doing more work, focusing on assignments that I require.  Choosing AP classes helped me grow in this field because I challenged myself to do more work.  Comparing myself to the beginning of the year, I definitely went on a constant growth in this field.
