@@ -270,3 +270,6 @@ I believe every action that is done relating to AI is used to train them.  When 
 
 # May 11, 2026
 Throughout the year, there has been many things that I have experienced.  School/work habits is definitely something that I have changed.  For this year, I have been doing more work, focusing on assignments that I require.  Choosing AP classes helped me grow in this field because I challenged myself to do more work.  Comparing myself to the beginning of the year, I definitely went on a constant growth in this field.
+
+# May 18, 2026
+If I had to describe Jesiah to the cops, I would say he is the kind of person to be a tall white guy with wavy hair, is 5'10, wearing crocs, jeans, a black sweater.  He also has earrings on both of his ears.
